@@ -1,6 +1,6 @@
 # Data Science BootCamp Batch 9
 
-I'm learning data science boot camp. There are 13 main class
+I'm learning data science boot camp. There are 13 main classes
 
 - Intro To Data Science
 - Building A Second Brain
