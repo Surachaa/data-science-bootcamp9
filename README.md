@@ -1,17 +1,21 @@
 # Data Science BootCamp Batch 9
 
-I'm learning data science bootcamp. There are 10 sprints in the program
+I'm learning data science boot camp. There are 13 main class
 
-- Intro to data science
+- Intro To Data Science
+- Building A Second Brain
 - Spreadsheets
-- SQL databases
-- R programming
+- Databases SQL
+- R Programming Foundation
 - Data Transformation
 - Data Visualization
+- Statistics For Data Analyst
 
-## Second part to the program
+## Second part of the program
 
-- Building website protfolio
-- Essential  Statistics
-- Machine Learning   
+- Building Data Portfolio
+- Machine Learning For Data Analyst
+- Python Programming Foundation
+- Essential Python For Data Analyst
+- Dashboard With Looker Studio (Data Analyst)
 
